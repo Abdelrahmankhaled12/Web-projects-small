@@ -123,6 +123,6 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 <hr>
 
 
-## Slider
-
+<!-- ## Slider
+ -->
 <img src="https://i.ibb.co/hFPrKqs/slider.gif">
