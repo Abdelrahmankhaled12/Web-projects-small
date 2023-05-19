@@ -120,9 +120,4 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 <img src="https://i.ibb.co/HNhyCY0/bandicam-2023-03-09-13-31-03-714.gif">
 
 
-<hr>
 
-
-<!-- ## Slider
- -->
-<img src="https://i.ibb.co/hFPrKqs/slider.gif">
